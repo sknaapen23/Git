@@ -1,5 +1,10 @@
 # Git
+<!DOCTYPE html>
 <html>
-    <title>Basic Web Page</title>
+    <body>
 
+        <h1>Basic Page</h1>
+        <p>Hello GitHub</p>
+
+    </body>
 </html>
